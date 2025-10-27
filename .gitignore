@@ -1,0 +1,36 @@
+# Backend
+backend/*.pyc
+backend/__pycache__/
+backend/db.sqlite3
+backend/.env
+backend/media/
+backend/staticfiles/
+backend/venv/
+backend/.venv/
+
+# Frontend
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/ios/Pods/
+frontend/android/app/debug/
+frontend/android/app/profile/
+frontend/android/app/release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (if needed, uncomment)
+# *.md
